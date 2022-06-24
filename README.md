@@ -1,4 +1,4 @@
-# Learnfiy [CLICK TO SEE](https://codewithajaypaswan.github.io/AR-demo/)
+# Learnfiy [CLICK TO SEE](https://roaring-sprite-7d008d.netlify.app/)
 ## Augumented Reality APP (learnify)
 
 
@@ -50,7 +50,7 @@ Ball model
 
 ## License
 
-Ajay Paswan
+ADITYA RAJ SHARMA
 
 **Free Software, Hell Yeah!**
 
